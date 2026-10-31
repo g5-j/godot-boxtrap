@@ -1,3 +1,13 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1793475139
+::res://::1793479477
 icon.svg::CompressedTexture2D::5272746309428356910::1793475138::1793475167::1::::<><><>0<>0<>277704ea5ac2f3fa6fc1194efb727421<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://showcase/::1793479467
+showcase.gd::GDScript::6207002296123751593::1793479467::0::1::::<>Node3D<><>0<>0<><>::
+showcase.tscn::PackedScene::-1::1793479467::0::1::::<><><>0<>0<><>::res://showcase/showcase.gd<>res://sky/day_night_sky.tscn
+::res://sky/::1793479467
+day_night_sky.gd::GDScript::2603996616219468139::1793479467::0::1::::<>Node3D<><>0<>1<><>::
+day_night_sky.tscn::PackedScene::-1::1793479467::0::1::::<><><>0<>0<><>::res://sky/day_night_sky.gd
+README.md::TextFile::-1::1793479467::0::1::::<><><>0<>0<><>::
+stylized_sky.gdshader::Shader::936525747333235506::1793479467::0::1::::<><><>0<>0<><>::
+::res://tests/::1793479467
+sky_smoke_test.gd::GDScript::7644805711419705022::1793479467::0::1::::<>SceneTree<><>0<>0<><>::
